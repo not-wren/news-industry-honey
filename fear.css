@@ -5,9 +5,18 @@
         text-align: center;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
+body {
+   height: 100vh;
+   margin: 0;
+}
     a{
         color: black;
     }
     .darken{
         color: black;
+    }
+    #deet{
+        text-align: center;
+        position: fixed;
+        bottom: 10px;
     }

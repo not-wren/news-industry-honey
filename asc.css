@@ -1,0 +1,10 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(251, 251, 252);
+    color: black;
+    text-align: center;
+    align-items: center;
+}
+a{
+    color: blue;
+}
