@@ -1,8 +1,8 @@
-A website about investigating some angels. It's more similar to a game than a website.
-<p>Coded in CSS and HTML.</p>
-<p>Thanks to Coding Artist Web for the HTML flashlight tutorial and GeeksforGeeks for the text gradient change.</p>
+A "website" about investigating angels. It would be more apt to call it a linear hypertext poem.
+<p>I made it in CSS and HTML, along with the use of ASCII art.<p>
+My initial idea for this website came from the idea of angels being ill and the 1990's Dread Not ARG.
 <p>This is the longest it's taken me to code a website so far, and I did get a bit sick of it towards the end.</p>
-<p>I learned about text-gradient effects and how to hide a cursor on a webpage.</p>
+<p>I learned about how to shift text-gradients and how to hide a cursor on a web page, in addition to figuring out how to create a more frighting atmosphere than a typical web site would have.</p>
 
 
 
@@ -16,3 +16,5 @@ A website about investigating some angels. It's more similar to a game than a we
         Mention of Cannabalism
         Images of Microscopic Bacteria
         Mentions of Disease
+
+<p>Thanks to Coding Artist Web for the HTML flashlight tutorial and GeeksforGeeks for the text gradient change.</p>
